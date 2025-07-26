@@ -1,4 +1,6 @@
 package practice_1.task6;
 
-public class Bird {
+public abstract class Bird {
+    public void fly() {
+    }
 }

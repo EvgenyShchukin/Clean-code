@@ -1,4 +1,4 @@
-package practice_1;
+package practice_1.task1;
 
 public class MathOperations {
     public int add(int a, int b) {
@@ -13,4 +13,3 @@ public class MathOperations {
         return add(add(add(a, b), c), d);
     }
 }
-
